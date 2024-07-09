@@ -7,7 +7,7 @@
 
 ## Book section to read
 - [Book chapter 1 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/01_intro.ipynb?authuser=3#scrollTo=57tQk0jr1wb6)
-- [Book chapter 1 (Titus)](part-1/lesson-1-getting-started/01_intro.ipynb)
+- [Book chapter 1 (Titus)](01_intro.ipynb)
 
 ## Resources
 - [Setting up Kaggle](https://course.fast.ai/Resources/kaggle.html)
