@@ -6,7 +6,8 @@
 - [Lesson 1 notebook](https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data)
 
 ## Book section to read
-- [Book chapter 1](https://colab.research.google.com/github/fastai/fastbook/blob/master/01_intro.ipynb?authuser=3#scrollTo=57tQk0jr1wb6)
+- [Book chapter 1 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/01_intro.ipynb?authuser=3#scrollTo=57tQk0jr1wb6)
+- [Book chapter 1 (Titus)](/01_intro.ipynb)
 
 ## Resources
 - [Setting up Kaggle](https://course.fast.ai/Resources/kaggle.html)
