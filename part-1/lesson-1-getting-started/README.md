@@ -15,7 +15,9 @@
 - [fast.ai datasets](https://docs.fast.ai/data.external.html#datasets)
 
 ## Vocabulary
+
 Deep learning vocabulary
+
 |=====
 | Term | Meaning
 |Label | The data that we're trying to predict, such as "dog" or "cat"
