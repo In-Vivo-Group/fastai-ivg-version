@@ -11,4 +11,5 @@ Coming soon...
 
 ## fast.ai general course resources
 - [Course page](https://course.fast.ai/)
+- [Course book](https://course.fast.ai/Resources/book.html)
 - [All course notebooks](https://github.com/fastai/course22)
