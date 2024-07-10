@@ -12,7 +12,7 @@
 - [Book chapter 2 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/02_production.ipynb)
 - [Book chapter 2 (Titus)](02_production.ipynb)
 
-**Note**: Make sure you change the runtime tyoe to GPU in Google Colab so your models run fast enough to use. 
+**Note**: Make sure you change the runtime type to GPU in Google Colab so your models run fast enough to use. 
 
 ## Resources
 - Updating how to authenticate in HuggingFace repos with [Tokens](https://huggingface.co/blog/password-git-deprecation)
