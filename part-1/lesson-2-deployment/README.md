@@ -15,3 +15,4 @@
 
 ## Resources
 - Updating how to authenticate in HuggingFace repos with [Tokens](https://huggingface.co/blog/password-git-deprecation)
+- [Setting up your environment](https://github.com/fastai/fastsetup)
