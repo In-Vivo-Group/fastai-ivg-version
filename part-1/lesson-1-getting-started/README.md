@@ -10,6 +10,9 @@
 - [Book chapter 1 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/01_intro.ipynb?authuser=3#scrollTo=57tQk0jr1wb6)
 - [Book chapter 1 (Titus)](01_intro.ipynb)
 
+**Note**: Make sure you change the runtime tyoe to GPU in Google Colab so your models run fast enough to use. 
+
+
 ## Resources
 - [Setting up Kaggle](https://course.fast.ai/Resources/kaggle.html)
 - [Links to more resources](https://course.fast.ai/Lessons/lesson1.html#links)
