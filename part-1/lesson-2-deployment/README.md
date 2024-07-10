@@ -6,6 +6,7 @@
 - [Lesson 2 forum (official topic)](https://forums.fast.ai/t/lesson-2-official-topic/96033)
 - [Lesson 2 notebook (fast.ai)](https://www.kaggle.com/code/jhoward/saving-a-basic-fastai-model)
 - [Lesson 2 notebook (Titus)](https://www.kaggle.com/code/alexandertitus/saving-a-basic-fastai-model/edit)
+- [Lesson 2 HF Spaces deployment (updated)](https://huggingface.co/spaces/In-Vivo-Group/fastai_gradio_example_updated)
 
 ## Book section to read
 - [Book chapter 2 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/02_production.ipynb)
