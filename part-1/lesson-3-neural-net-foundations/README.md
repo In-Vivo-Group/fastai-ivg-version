@@ -8,6 +8,7 @@
 - [Lesson 3 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
 - [Lesson 3 Kaggle notebook (Titus)](https://www.kaggle.com/code/alexandertitus/which-image-models-are-best/edit)
 - [Lesson 3 Kaggle notebook2 (Titus)](https://www.kaggle.com/code/alexandertitus/how-does-a-neural-net-really-work/edit)
+- [Lesson 3 HF Spaces (fast.ai)](https://huggingface.co/spaces/jph00/pets/tree/main)
 
 ## Book section to read
 - [Book chapter 4 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
