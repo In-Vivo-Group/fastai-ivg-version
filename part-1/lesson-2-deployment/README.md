@@ -14,4 +14,4 @@
 **Note**: Make sure you change the runtime tyoe to GPU in Google Colab so your models run fast enough to use. 
 
 ## Resources
-TBD
+- Updating how to authenticate in HuggingFace repos with [Tokens](https://huggingface.co/blog/password-git-deprecation)
