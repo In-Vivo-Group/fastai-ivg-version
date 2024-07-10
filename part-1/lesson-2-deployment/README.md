@@ -10,5 +10,7 @@
 - [Book chapter 2 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/02_production.ipynb)
 - [Book chapter 2 (Titus)](02_production.ipynb)
 
+**Note**: Make sure you change the runtime tyoe to GPU in Google Colab so your models run fast enough to use. 
+
 ## Resources
 TBD
