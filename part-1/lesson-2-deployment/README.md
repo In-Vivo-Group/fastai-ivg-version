@@ -3,6 +3,7 @@
 ## Course information
 - [Lesson 2 page](https://course.fast.ai/Lessons/lesson2.html)
 - [Lesson 2 video](https://www.youtube.com/watch?v=F4tvM4Vb3A0)
+- [Lesson 2 forum (official topic)](https://forums.fast.ai/t/lesson-2-official-topic/96033)
 - [Lesson 2 notebook (fast.ai)](https://www.kaggle.com/code/jhoward/saving-a-basic-fastai-model)
 - [Lesson 2 notebook (Titus)](https://www.kaggle.com/code/alexandertitus/saving-a-basic-fastai-model/edit)
 
