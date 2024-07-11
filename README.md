@@ -5,6 +5,7 @@ Working through the [fast.ai course](https://course.fast.ai/) to create a resour
 ## Part 1
 - [Lesson 1: Getting Started](/part-1/lesson-1-getting-started/)
 - [Lesson 2: Deployment](/part-1/lesson-2-deployment/)
+- [Lesson 3: Neural net foundations](/part-1/lesson-3-neural-net-foundations/)
 
 ## Part 2
 Coming soon...
