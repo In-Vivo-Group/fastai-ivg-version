@@ -6,6 +6,7 @@ Working through the [fast.ai course](https://course.fast.ai/) to create a resour
 - [Lesson 1: Getting Started](/part-1/lesson-1-getting-started/)
 - [Lesson 2: Deployment](/part-1/lesson-2-deployment/)
 - [Lesson 3: Neural net foundations](/part-1/lesson-3-neural-net-foundations/)
+- [Lesson 4: Natural language (NLP)](/part-1/lesson-4-natural-language-nlp/)
 
 ## Part 2
 Coming soon...
