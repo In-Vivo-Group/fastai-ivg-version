@@ -6,7 +6,7 @@
 - [Lesson 3 forum (official topic)](https://forums.fast.ai/t/lesson-3-official-topic/96254)
 - [Lesson 3 Kaggle notebook (fast.ai)](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
 - [Lesson 3 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
-- [Lesson 3 Kaggle notebook (Titus)](https://www.kaggle.com/code/alexandertitus/which-image-models-are-best/edit)
+- [Lesson 3 Kaggle notebook (Titus)](which_models.ipynb)
 - [Lesson 3 Kaggle notebook2 (Titus)](https://www.kaggle.com/code/alexandertitus/how-does-a-neural-net-really-work/edit)
 - [Lesson 3 HF Spaces (fast.ai)](https://huggingface.co/spaces/jph00/pets/tree/main)
 
