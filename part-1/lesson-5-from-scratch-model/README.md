@@ -7,7 +7,7 @@
 - [Lesson 5 Kaggle notebook (fast.ai)](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
 - [Lesson 5 Kaggle notebook (Titus)](linear-model-and-neural-net-from-scratch.ipynb)
 - [Lesson 5 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
-- [Lesson 5 Kaggle notebook2 (Titus)]()
+- [Lesson 5 Kaggle notebook2 (Titus)](why-you-should-use-a-framework.ipynb)
 - [Lesson 5 Kaggle notebook3 (fast.ai)](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
 - [Lesson 5 Kaggle notebook3 (Titus)]()
 
