@@ -11,7 +11,7 @@
 
 ## Book section to read
 - [Book chapter 9 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/09_tabular.ipynb)
-- [Book chapter 9 (Titus)](../lesson-5-from-scratch-modle/09_tabular.ipynb)
+- [Book chapter 9 (Titus)](../lesson-5-from-scratch-model/09_tabular.ipynb)
 
 **Note**: Make sure you change the runtime type to GPU in Google Colab so your models run fast enough to use. 
 
