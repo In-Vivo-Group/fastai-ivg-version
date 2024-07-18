@@ -5,7 +5,7 @@
 - [Lesson 6 video](https://www.youtube.com/watch?v=AdhG64NF76E)
 - [Lesson 6 forum (official topic)](https://forums.fast.ai/t/lesson-6-official-topic/96972)
 - [Lesson 6 Kaggle notebook (fast.ai)](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
-- [Lesson 6 Kaggle notebook (Titus)](../lesson-5-fron-scratch-model/how-random-forests-really-work.ipynb)
+- [Lesson 6 Kaggle notebook (Titus)](../lesson-5-from-scratch-model/how-random-forests-really-work.ipynb)
 - [Lesson 6 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/first-steps-road-to-the-top-part-1)
 - [Lesson 6 Kaggle notebook2 (Titus)](road-to-the-top.ipynb)
 
