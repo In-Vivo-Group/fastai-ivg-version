@@ -9,7 +9,7 @@
 - [Lesson 5 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
 - [Lesson 5 Kaggle notebook2 (Titus)](why-you-should-use-a-framework.ipynb)
 - [Lesson 5 Kaggle notebook3 (fast.ai)](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
-- [Lesson 5 Kaggle notebook3 (Titus)]()
+- [Lesson 5 Kaggle notebook3 (Titus)](how-random-forests-really-work.ipynb)
 
 ## Book section to read
 - [Book chapter 9 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/09_tabular.ipynb)
