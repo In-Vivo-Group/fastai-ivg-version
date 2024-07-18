@@ -15,7 +15,7 @@
 - [Book chapter 9 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/09_tabular.ipynb)
 - [Book chapter 9 (Titus)](09_tabular.ipynb)
 - [Book chapter 4 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb)
-- [Book chapter 4 (Titus)]()
+- [Book chapter 4 (Titus)](../lesson-3-neural-net-foundations/04_mnist_basics.ipynb)
 
 **Note**: Make sure you change the runtime type to GPU in Google Colab so your models run fast enough to use. 
 
