@@ -8,6 +8,7 @@
 - [Lesson 6 Kaggle notebook (Titus)](../lesson-5-from-scratch-model/how-random-forests-really-work.ipynb)
 - [Lesson 6 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/first-steps-road-to-the-top-part-1)
 - [Lesson 6 Kaggle notebook2 (Titus)](road-to-the-top.ipynb)
+- [Lesson 6 Kaggle notebook3 (Titus)](road-to-the-top2.ipynb)
 
 ## Book section to read
 - [Book chapter 9 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/09_tabular.ipynb)
