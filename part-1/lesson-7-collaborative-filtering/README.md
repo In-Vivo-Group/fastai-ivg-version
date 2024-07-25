@@ -4,8 +4,12 @@
 - [Lesson 7 page](https://course.fast.ai/Lessons/lesson7.html)
 - [Lesson 7 video](https://www.youtube.com/watch?v=p4ZZq0736Po)
 - [Lesson 7 forum (official topic)](https://forums.fast.ai/t/lesson-7-official-topic/97076)
-- [Lesson 7 Kaggle notebook (fast.ai)]()
-- [Lesson 7 Kaggle notebook (Titus)]()
+- [Lesson 7 Kaggle notebook (fast.ai)](https://www.kaggle.com/code/jhoward/scaling-up-road-to-the-top-part-3)
+- [Lesson 7 Kaggle notebook (Titus)](road-to-the-top3.ipynb)
+- [Lesson 7 Kaggle notebook2 (fast.ai)](https://www.kaggle.com/code/jhoward/multi-target-road-to-the-top-part-4)
+- [Lesson 7 Kaggle notebook2 (Titus)](road-to-the-top4.ipynb)
+- [Lesson 7 Kaggle notebook3 (fast.ai)](https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive/notebook)
+- [Lesson 7 Kaggle notebook3 (Titus)](collaborative-filtering-deep-dive.ipynb)
 
 ## Book section to read
 - [Book chapter 8 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/08_collab.ipynb)
