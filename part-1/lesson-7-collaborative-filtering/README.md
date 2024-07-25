@@ -2,8 +2,8 @@
 
 ## Course information
 - [Lesson 7 page](https://course.fast.ai/Lessons/lesson7.html)
-- [Lesson 7 video]()
-- [Lesson 7 forum (official topic)]()
+- [Lesson 7 video](https://www.youtube.com/watch?v=p4ZZq0736Po)
+- [Lesson 7 forum (official topic)](https://forums.fast.ai/t/lesson-7-official-topic/97076)
 - [Lesson 7 Kaggle notebook (fast.ai)]()
 - [Lesson 7 Kaggle notebook (Titus)]()
 
