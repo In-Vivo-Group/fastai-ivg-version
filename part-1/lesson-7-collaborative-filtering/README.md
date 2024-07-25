@@ -11,6 +11,10 @@
 - [Lesson 7 Kaggle notebook3 (fast.ai)](https://www.kaggle.com/code/jhoward/collaborative-filtering-deep-dive/notebook)
 - [Lesson 7 Kaggle notebook3 (Titus)](collaborative-filtering-deep-dive.ipynb)
 
+## Spreadsheets for the lesson
+- [Entropy](https://github.com/fastai/course22/blob/master/xl/entropy_example.xlsx)
+- [Collab filter](https://github.com/fastai/course22/blob/master/xl/collab_filter.xlsx)
+
 ## Book section to read
 - [Book chapter 8 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/08_collab.ipynb)
 - [Book chapter 8 (Titus)](08_collab.ipynb)
