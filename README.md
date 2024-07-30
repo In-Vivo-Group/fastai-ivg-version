@@ -10,6 +10,7 @@ Working through the [fast.ai course](https://course.fast.ai/) to create a resour
 - [Lesson 5: From-scratch model](/part-1/lesson-5-from-scratch-model/)
 - [Lesson 6: From-scratch model](/part-1/lesson-6-random-forests/)
 - [Lesson 7: From-scratch model](/part-1/lesson-7-collaborative-filtering/)
+- [Lesson 8: From-scratch model](/part-1/lesson-8-convolutions-cnn/)
 
 ## Part 2
 Coming soon...
