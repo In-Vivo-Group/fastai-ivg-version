@@ -20,3 +20,7 @@ Coming soon...
 - [Course book](https://course.fast.ai/Resources/book.html)
 - [All course notebooks](https://github.com/fastai/course22)
 - [Numerical Linear Algebra Course](https://github.com/fastai/numerical-linear-algebra)
+
+## Other resources from the fast ecosystem
+- [FastHTML](https://fastht.ml/)
+- [Getting started with FastHTML](https://www.youtube.com/watch?v=Auqrm7WFc0I)
