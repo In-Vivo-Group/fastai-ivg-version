@@ -11,7 +11,7 @@
 
 ## Book section to read
 - [Book chapter 13 (fast.ai)](https://colab.research.google.com/github/fastai/fastbook/blob/master/13_convolutions.ipynb)
-- [Book chapter 8 (Titus)](13_convolutions.ipynb)
+- [Book chapter 13 (Titus)](13_convolutions.ipynb)
 
 **Note**: Make sure you change the runtime type to GPU in Google Colab so your models run fast enough to use. 
 
