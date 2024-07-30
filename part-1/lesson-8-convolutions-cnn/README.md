@@ -19,4 +19,4 @@
 - Updating how to authenticate in HuggingFace repos with [Tokens](https://huggingface.co/blog/password-git-deprecation)
 - [Setting up your environment](https://github.com/fastai/fastsetup) - clone this repo, navigate there, then run ./setup-conda.sh
 - [How to explain Gradient Boosting](https://explained.ai/gradient-boosting/)
-- [“Statistical Modeling: The Two Cultures”](https://www.semanticscholar.org/paper/Statistical-modeling%3A-The-two-cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372) by Leo Breiman
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)
