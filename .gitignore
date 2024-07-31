@@ -163,3 +163,5 @@ cython_debug/
 
 # Kaggle
 */.kaggle/kaggle.json
+/kaggle/*
+!/kaggle/kaggle_analysis.ipynb
